@@ -37,8 +37,10 @@ Xem file `PROMPT.md` để biết chi tiết về:
 
 ## 🔗 Links
 
-- Frontend: https://barneylabs.vercel.app
-- Backend API: (sẽ cập nhật sau khi deploy)
+- **Frontend**: https://barneylabs-courses.vercel.app
+- **GitHub Repo**: https://github.com/dovantudev-ux/course-platform
+- **Backend API**: (chưa deploy - cần Railway/Render)
+- **Database**: PostgreSQL (Docker local)
 
 ## 👨‍💻 Development
 
